@@ -1,0 +1,4 @@
+class sample
+{
+int a=10;
+}
